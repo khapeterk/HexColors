@@ -1,0 +1,15 @@
+{
+  "name": "HexColors",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/khapeterk/HexColors.git",
+  "author": "Peter Kha <khapeterk@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@types/jest": "^26.0.13",
+    "jest": "^26.4.2",
+    "ts-jest": "^26.3.0",
+    "typescript": "^4.0.2"
+  }
+}
